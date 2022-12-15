@@ -49,6 +49,12 @@ nav ul li a {
   padding: 5px;
 }
 
+.video {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 .lista_de_recetas {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
