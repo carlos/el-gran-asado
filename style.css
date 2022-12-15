@@ -63,8 +63,9 @@ nav ul li a {
 
 .receta img {
   width: 100%;
-  max-height: 200px;
+  max-height: 150px;
   object-fit: cover;
+  border-radius: 10px;
 }
 
 .lista_de_fuentes {
@@ -75,6 +76,7 @@ nav ul li a {
 
 .fuente img {
   width: 100%;
-  max-height: 200px;
+  max-height: 150px;
   object-fit: cover;
+  border-radius: 10px;
 }
