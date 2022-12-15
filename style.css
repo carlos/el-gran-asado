@@ -1,7 +1,13 @@
 body {
+  background-color: #F8F4EE;
+  color: #18171a;
+  font-family: 'Inter', sans-serif;
   margin: auto;
   max-width: 960px;
-  background-color: #F8F4EE;
+}
+
+h1, h2, h3 {
+  font-family: 'Fredoka One', serif;
 }
 
 a {
