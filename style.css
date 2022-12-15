@@ -1,0 +1,48 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+/*
+body{background: linear-gradient(90deg, rgba(245,127,81,1) 4%, rgba(247,86,122,1) 28%, rgba(231,99,145,1) 73%, rgba(179,104,155,1) 100%);
+  font-family: 'Roboto', sans-serif;}
+
+.padre{
+  display: grid;
+  grid-template-rows: 250px 150px;
+}
+
+.logo{
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  grid-gap: 10px;
+}
+*/
+.logo img{
+  height: 250px;
+  width: 250px;
+}
+
+.lista_de_recetas {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 20px;
+}
+
+.receta img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+/*
+.lista_de_fuentes {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr;
+  grid-gap: 20px;
+}
+
+.fuente img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}*/
