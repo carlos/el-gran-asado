@@ -4,6 +4,15 @@ body {
   background-color: #F8F4EE;
 }
 
+a {
+  color: #8D2405;
+}
+
+a:hover {
+  background-color: #4D1303;
+  color: #F8F4EE;
+}
+
 .logo img {
   height: 250px;
   width: 250px;
